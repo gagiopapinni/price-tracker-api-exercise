@@ -35,6 +35,8 @@ Finishes the confirmation process and returns a simple page with the result or e
 
 
 
-### Severely uninformative Bpmn diagram
+### Severely uninformative Bpmn diagram    
 
-[diagram]: https://github.com/gagiopapinni/price-tracker-api-exercise/Diagram.png "an uninformative diagram"
+
+<img src="https://github.com/gagiopapinni/price-tracker-api-exercise/blob/master/Diagram.png" >
+
