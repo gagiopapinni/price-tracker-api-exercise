@@ -1,6 +1,6 @@
 # price-tracker-api-exercise
 
-### Config.json
+### config.json
 ```
 {     
    "PORT": <INT>,   
@@ -13,7 +13,7 @@
 ```
 ### Running
 go 1.15 is required   
-Once the Config.json is created, run in project dir:      
+Once the config.json is created, run in project dir:      
 ```
 go install
 go run main.go
